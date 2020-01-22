@@ -1,0 +1,12 @@
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\bin\Debug\bbddsql.mdf
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.exe.config
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.exe
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.pdb
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.xml
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.vbprojAssemblyReference.cache
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11_ramon_moñino.SQLForm.resources
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11_ramon_moñino.Resources.resources
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.vbproj.GenerateResource.cache
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.exe
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.xml
+C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.pdb

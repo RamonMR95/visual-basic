@@ -1,0 +1,13 @@
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\bin\Debug\ej-ramon-moñino.exe.config
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\bin\Debug\ej-ramon-moñino.exe
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\bin\Debug\ej-ramon-moñino.pdb
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\bin\Debug\ej-ramon-moñino.xml
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej-ramon-moñino.vbprojAssemblyReference.cache
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej_ramon_moñino.VideoClub.resources
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej_ramon_moñino.VideoClubForm.resources
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej_ramon_moñino.Resources.resources
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej-ramon-moñino.vbproj.GenerateResource.cache
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej-ramon-moñino.exe
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej-ramon-moñino.xml
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej-ramon-moñino.pdb
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual basic\ejercicio10\ej-ramon-moñino\obj\Debug\ej_ramon_moñino.ConsultaDVDForm.resources
