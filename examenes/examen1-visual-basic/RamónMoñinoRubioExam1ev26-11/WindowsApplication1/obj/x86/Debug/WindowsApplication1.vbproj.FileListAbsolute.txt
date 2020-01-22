@@ -1,0 +1,76 @@
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Family\mis documentos\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VBOXSVR\comparteMar\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+\\VBOXSVR\compartoWindow\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\VBOXSVR\compartoWindow\curso16-17\1ªev15-16\soluExam1ev\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VBOXSVR\compartoWindow\curso19-20\soluExam1ev16-17\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CambiarClaveForm.resources
+C:\Users\usr\Desktop\exVB26-11\exVB26-11\RamónMoñinoRubioExam1ev26-11\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LoginForm.resources
