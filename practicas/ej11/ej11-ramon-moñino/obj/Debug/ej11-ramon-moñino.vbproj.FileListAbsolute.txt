@@ -10,3 +10,17 @@ C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej
 C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.exe
 C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.xml
 C:\Users\usr\Desktop\workspace\ej11-visual-basic\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.pdb
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.exe.config
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.exe
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.pdb
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\bin\Debug\ej11-ramon-moñino.xml
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.vbprojAssemblyReference.cache
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11_ramon_moñino.Resources.resources
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.vbproj.GenerateResource.cache
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.exe
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.xml
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11-ramon-moñino.pdb
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\bin\Debug\bbddsql.mdf
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\bin\Debug\bbddsql_log.ldf
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11_ramon_moñino.ListadoForm.resources
+C:\Users\lawl\Documents\EspaciosDeTrabajo\visual-basic\practicas\ej11\ej11-ramon-moñino\obj\Debug\ej11_ramon_moñino.DBForm.resources
