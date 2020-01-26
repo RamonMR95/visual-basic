@@ -45,12 +45,13 @@ Integrated Security=True;Connect Timeout=5"
             Dim miDT As New DataTable, miDR As DataRow
             miDataA.Fill(miDT)
 
-            ListadoForm.DataGridViewDatos.ColumnCount = 2
+            ListadoForm.DataGridViewDatos.ColumnCount = 3
             ListadoForm.DataGridViewDatos.Columns(0).Name = "ProductID"
             ListadoForm.DataGridViewDatos.Columns(1).Name = "ProductName"
+            ListadoForm.DataGridViewDatos.Columns(2).Name = "UnitPrice"
 
             For Each miDR In miDT.Rows
-                ListadoForm.DataGridViewDatos.Rows.Add(miDR("ProductID"), miDR("ProductName"))
+                ListadoForm.DataGridViewDatos.Rows.Add(miDR("ProductID"), miDR("ProductName"), miDR("UnitPrice"))
             Next
             ListadoForm.Show()
         Else
@@ -60,7 +61,7 @@ Integrated Security=True;Connect Timeout=5"
 
     Private Sub btnDataReader_Click(sender As Object, e As EventArgs) Handles btnDataReader.Click
         If sqlClient.State = ConnectionState.Open Then
-            Dim miDT As New DataTable, miR As DataRow
+            Dim miDT As New DataTable
             Dim miSqlCom As New SqlCommand("select top 5 * from Customers", sqlClient)
             miDataR = miSqlCom.ExecuteReader()
 
@@ -80,7 +81,20 @@ Integrated Security=True;Connect Timeout=5"
     End Sub
 
     Private Sub btnDataSet_Click(sender As Object, e As EventArgs) Handles btnDataSet.Click
-
+        Try
+            Dim id As String = InputBox("Introduce id del producto")
+            Dim miDataA As SqlDataAdapter = New SqlDataAdapter("Select * from Products where ProductID = " + id, sqlClient)
+            Dim miDataS As DataSet = New DataSet
+            Dim miCmdB = New SqlCommandBuilder(miDataA)
+            miDataA.Fill(miDataS)
+            miDataS.Tables(0).Rows(0).Item("UnitPrice") = InputBox("Introduce la precio por unidad")
+            miDataA.Update(miDataS.Tables(0))
+            MsgBox("Precio del actualizado")
+        Catch ex As SqlException
+            MsgBox("Id invalido")
+        Catch ex2 As Exception
+            MsgBox("Precio por unidad inválido")
+        End Try
     End Sub
 End Class
 
