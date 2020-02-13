@@ -1,0 +1,351 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ej12-ramon-moñino
+</name>
+</assembly>
+<members>
+<member name="T:ej12_ramon_moñino.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ej12_ramon_moñino.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ej12_ramon_moñino.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomerCustomerDemoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomerDemographicsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.dtpropertiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.EmployeeTerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.Order_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.RegionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.ShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.TerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomerCustomerDemoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomerDemographicsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.dtpropertiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.EmployeeTerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.Order_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.RegionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.ShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.TerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomerCustomerDemoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomerDemographicsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.dtpropertiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.EmployeeTerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.Order_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.RegionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.ShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSet.TerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.CustomerCustomerDemoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.CustomerDemographicsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.dtpropertiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.EmployeeTerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.Order_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.RegionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.ShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ej12_ramon_moñino.bbddsqlDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ej12_ramon_moñino.bbddsqlDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ej12_ramon_moñino.bbddsqlDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateAll(ej12_ramon_moñino.bbddsqlDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ej12_ramon_moñino.bbddsqlDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

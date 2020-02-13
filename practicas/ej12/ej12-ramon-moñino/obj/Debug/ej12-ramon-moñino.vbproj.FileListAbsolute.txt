@@ -1,0 +1,13 @@
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\bbddsql.mdf
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\bbddsql_log.ldf
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\ej12-ramon-moñino.exe.config
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\ej12-ramon-moñino.exe
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\ej12-ramon-moñino.pdb
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\ej12-ramon-moñino.xml
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.vbprojAssemblyReference.cache
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12_ramon_moñino.Resources.resources
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12_ramon_moñino.Pedidos.resources
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.vbproj.GenerateResource.cache
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.exe
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.xml
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.pdb
