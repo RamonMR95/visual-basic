@@ -444,7 +444,7 @@ Partial Class EmployeeForm
         'EmployeeIDTextBox
         '
         Me.EmployeeIDTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.EmployeesBindingSource, "EmployeeID", True))
-        Me.EmployeeIDTextBox.Location = New System.Drawing.Point(251, 66)
+        Me.EmployeeIDTextBox.Location = New System.Drawing.Point(264, 66)
         Me.EmployeeIDTextBox.Name = "EmployeeIDTextBox"
         Me.EmployeeIDTextBox.Size = New System.Drawing.Size(200, 20)
         Me.EmployeeIDTextBox.TabIndex = 2
@@ -452,7 +452,7 @@ Partial Class EmployeeForm
         'LastNameTextBox
         '
         Me.LastNameTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.EmployeesBindingSource, "LastName", True))
-        Me.LastNameTextBox.Location = New System.Drawing.Point(251, 92)
+        Me.LastNameTextBox.Location = New System.Drawing.Point(264, 92)
         Me.LastNameTextBox.Name = "LastNameTextBox"
         Me.LastNameTextBox.Size = New System.Drawing.Size(200, 20)
         Me.LastNameTextBox.TabIndex = 4
@@ -460,7 +460,7 @@ Partial Class EmployeeForm
         'FirstNameTextBox
         '
         Me.FirstNameTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.EmployeesBindingSource, "FirstName", True))
-        Me.FirstNameTextBox.Location = New System.Drawing.Point(251, 118)
+        Me.FirstNameTextBox.Location = New System.Drawing.Point(264, 118)
         Me.FirstNameTextBox.Name = "FirstNameTextBox"
         Me.FirstNameTextBox.Size = New System.Drawing.Size(200, 20)
         Me.FirstNameTextBox.TabIndex = 6
@@ -468,7 +468,7 @@ Partial Class EmployeeForm
         'TitleTextBox
         '
         Me.TitleTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.EmployeesBindingSource, "Title", True))
-        Me.TitleTextBox.Location = New System.Drawing.Point(251, 144)
+        Me.TitleTextBox.Location = New System.Drawing.Point(264, 144)
         Me.TitleTextBox.Name = "TitleTextBox"
         Me.TitleTextBox.Size = New System.Drawing.Size(200, 20)
         Me.TitleTextBox.TabIndex = 8
@@ -476,7 +476,7 @@ Partial Class EmployeeForm
         'TitleOfCourtesyTextBox
         '
         Me.TitleOfCourtesyTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.EmployeesBindingSource, "TitleOfCourtesy", True))
-        Me.TitleOfCourtesyTextBox.Location = New System.Drawing.Point(251, 170)
+        Me.TitleOfCourtesyTextBox.Location = New System.Drawing.Point(264, 170)
         Me.TitleOfCourtesyTextBox.Name = "TitleOfCourtesyTextBox"
         Me.TitleOfCourtesyTextBox.Size = New System.Drawing.Size(200, 20)
         Me.TitleOfCourtesyTextBox.TabIndex = 10
@@ -484,7 +484,7 @@ Partial Class EmployeeForm
         'BirthDateDateTimePicker
         '
         Me.BirthDateDateTimePicker.DataBindings.Add(New System.Windows.Forms.Binding("Value", Me.EmployeesBindingSource, "BirthDate", True))
-        Me.BirthDateDateTimePicker.Location = New System.Drawing.Point(251, 196)
+        Me.BirthDateDateTimePicker.Location = New System.Drawing.Point(264, 196)
         Me.BirthDateDateTimePicker.Name = "BirthDateDateTimePicker"
         Me.BirthDateDateTimePicker.Size = New System.Drawing.Size(200, 20)
         Me.BirthDateDateTimePicker.TabIndex = 12
@@ -492,7 +492,7 @@ Partial Class EmployeeForm
         'HireDateDateTimePicker
         '
         Me.HireDateDateTimePicker.DataBindings.Add(New System.Windows.Forms.Binding("Value", Me.EmployeesBindingSource, "HireDate", True))
-        Me.HireDateDateTimePicker.Location = New System.Drawing.Point(251, 222)
+        Me.HireDateDateTimePicker.Location = New System.Drawing.Point(264, 222)
         Me.HireDateDateTimePicker.Name = "HireDateDateTimePicker"
         Me.HireDateDateTimePicker.Size = New System.Drawing.Size(200, 20)
         Me.HireDateDateTimePicker.TabIndex = 14
@@ -500,7 +500,7 @@ Partial Class EmployeeForm
         'AddressTextBox
         '
         Me.AddressTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.EmployeesBindingSource, "Address", True))
-        Me.AddressTextBox.Location = New System.Drawing.Point(251, 248)
+        Me.AddressTextBox.Location = New System.Drawing.Point(264, 248)
         Me.AddressTextBox.Name = "AddressTextBox"
         Me.AddressTextBox.Size = New System.Drawing.Size(200, 20)
         Me.AddressTextBox.TabIndex = 16
@@ -508,7 +508,7 @@ Partial Class EmployeeForm
         'CityTextBox
         '
         Me.CityTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.EmployeesBindingSource, "City", True))
-        Me.CityTextBox.Location = New System.Drawing.Point(251, 274)
+        Me.CityTextBox.Location = New System.Drawing.Point(264, 274)
         Me.CityTextBox.Name = "CityTextBox"
         Me.CityTextBox.Size = New System.Drawing.Size(200, 20)
         Me.CityTextBox.TabIndex = 18
