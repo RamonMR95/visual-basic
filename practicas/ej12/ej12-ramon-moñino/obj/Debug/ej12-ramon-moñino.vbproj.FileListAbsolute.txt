@@ -6,7 +6,6 @@ D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\ej
 D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug\ej12-ramon-moñino.xml
 D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.vbprojAssemblyReference.cache
 D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12_ramon_moñino.Resources.resources
-D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12_ramon_moñino.Pedidos.resources
 D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.vbproj.GenerateResource.cache
 D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.exe
 D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.xml
@@ -26,3 +25,6 @@ C:\Users\usr\Desktop\ws\visual-basic\practicas\ej12\ej12-ramon-moñino\bin\Debug
 C:\Users\usr\Desktop\ws\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.exe
 C:\Users\usr\Desktop\ws\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.xml
 C:\Users\usr\Desktop\ws\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12-ramon-moñino.pdb
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12_ramon_moñino.EmployeeForm.resources
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12_ramon_moñino.MainForm.resources
+D:\EspaciosDeTrabajo\visual-basic\practicas\ej12\ej12-ramon-moñino\obj\Debug\ej12_ramon_moñino.OrdersForm.resources

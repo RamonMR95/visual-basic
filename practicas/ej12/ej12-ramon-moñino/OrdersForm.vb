@@ -6,9 +6,9 @@
     End Sub
 
     Private Sub Orders_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Me.EmployeesTableAdapter.Fill(Me.BbddsqlDataSet.Employees)
+        'Me.EmployeesTableAdapter.Fill(Me.BbddsqlDataSet.Employees)
         Me.OrdersTableAdapter.Fill(Me.BbddsqlDataSet.Orders)
-        Me.CustomersTableAdapter.Fill(Me.BbddsqlDataSet.Customers)
+        'Me.CustomersTableAdapter.Fill(Me.BbddsqlDataSet.Customers)
     End Sub
 
     Private Sub FillByIDCustomer()
@@ -22,7 +22,7 @@
     End Sub
 
     Private Sub CustomerIDTextBox_TextChanged(sender As Object, e As EventArgs) Handles CustomerIDTextBox.TextChanged
-        If String.IsNullOrEmpty(CustomerIDTextBox.Text) Then
+        If Not String.IsNullOrEmpty(CustomerIDTextBox.Text) And rbCustomers.Checked Then
             FillByIDCustomer()
         End If
     End Sub
@@ -52,7 +52,9 @@
     End Sub
 
     Private Sub EmployeeIDTextBox_TextChanged(sender As Object, e As EventArgs) Handles EmployeeIDTextBox.TextChanged
-        FillByEmployeeID()
+        If Not String.IsNullOrEmpty(EmployeeIDTextBox.Text) And rbEmployees.Checked Then
+            FillByEmployeeID()
+        End If
     End Sub
 
     Private Sub FillByOrderID()
@@ -68,22 +70,16 @@
     End Sub
 
     Private Sub btnRemove_Click(sender As Object, e As EventArgs) Handles btnRemove.Click
-        'Definimos vista del DataRow
         Dim vistaFilaActual As DataRowView
-        'Le asignamos la fila actual
         vistaFilaActual = OrdersBindingSource.Current
-        'Borramos la fila
         vistaFilaActual.Row.Delete()
-        'Actualizamos DataAdapter
     End Sub
 
 
     Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSave.Click
         Try
             OrdersBindingSource.AddNew()
-            'Terminamos la edición
             OrdersBindingSource.EndEdit()
-            'Si ha habido cambios en DataSet actualizamos DataAdapter
             If BbddsqlDataSet.HasChanges Then
                 Me.TableAdapterManager.UpdateAll(Me.BbddsqlDataSet)
             End If
