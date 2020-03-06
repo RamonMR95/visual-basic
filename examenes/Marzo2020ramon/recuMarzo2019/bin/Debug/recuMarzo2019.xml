@@ -1,0 +1,351 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+recuMarzo2019
+</name>
+</assembly>
+<members>
+<member name="T:recuMarzo2019.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:recuMarzo2019.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:recuMarzo2019.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomerCustomerDemoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomerDemographicsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.dtpropertiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.EmployeeTerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.Order_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.RegionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.ShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.TerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomerCustomerDemoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomerDemographicsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.dtpropertiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.EmployeeTerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.Order_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.RegionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.ShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.TerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomerCustomerDemoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomerDemographicsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.dtpropertiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.EmployeeTerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.Order_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.RegionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.ShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSet.TerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.CustomerCustomerDemoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.CustomerDemographicsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.dtpropertiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.EmployeeTerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.Order_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.RegionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.ShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.TerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(recuMarzo2019.bbddsqlDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(recuMarzo2019.bbddsqlDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(recuMarzo2019.bbddsqlDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateAll(recuMarzo2019.bbddsqlDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:recuMarzo2019.bbddsqlDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
